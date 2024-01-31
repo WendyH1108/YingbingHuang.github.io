@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: Yingbing Huang's Resume
 nav: true
 nav_order: 4
 cv_pdf: Yingbing_Huang_Resume.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: You can view more details by clicking the top pdf button 
 toc:
   sidebar: left
 ---

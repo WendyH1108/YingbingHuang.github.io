@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-5
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Graduate from Cornell Engineering College with Honor B.S. in Computer Science major and Operations Research minor

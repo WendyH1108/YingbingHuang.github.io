@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: Yingbing Huang's Resume
+title: CV
 nav: true
 nav_order: 4
 cv_pdf: Yingbing_Huang_Resume.pdf

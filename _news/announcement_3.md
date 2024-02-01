@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Join the Ph.D. program under UIUC ECE department
+Joined the Ph.D. program under UIUC ECE department

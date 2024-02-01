@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduate from Cornell Engineering College with Honor B.S. in Computer Science major and Operations Research minor.
+Graduated from Cornell Engineering College with Honor B.S. in Computer Science major and Operations Research minor.

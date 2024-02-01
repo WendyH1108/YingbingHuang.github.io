@@ -10,8 +10,7 @@ profile:
   content: about_einstein.md
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>403 Coordinated Science Lab, </p>
-    <p>1308 W Main St, </p>
+    <p>403 Coordinated Science Lab, 1308 W Main St,</p>
     <p>Urbana, IL 61801, USA</p>
 
 news: true  # includes a list of news items

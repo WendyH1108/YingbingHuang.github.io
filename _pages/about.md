@@ -7,7 +7,7 @@ subtitle: Ph.D. Student at University of Illinois, Urbana Champaign
 profile:
   align: right
   image: prof_pic.jpg
-  content: about_einstein.md
+  content:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>403 Coordinated Science Lab, 1308 W Main St,</p>
